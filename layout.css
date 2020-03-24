@@ -6,6 +6,14 @@ html,body{
 }
 #main{
   width:70%;
-  height:60%;
+  height:50%;
   margin:0 auto;
+}
+.main{
+  width:70%;
+  height:45%;
+  margin:0 265px;
+}
+p{
+  margin:10px 631px;
 }
