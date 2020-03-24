@@ -36,7 +36,7 @@ $(function(){
       ["Visual Basic.NET","6","降","-1.17%"],
       ["JavaScript","7","降","-0.85%"]
     ],
-    colWidths:220,
+    colWidths:210,
     rowHeights:35,
     className: "htCenter htMiddle",
     contextMenu:!0,
