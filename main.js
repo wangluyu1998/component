@@ -9,7 +9,9 @@ $(function(){
     title: {
       text: 'JavaScript语言排名变化'
     },
-    tooltip:{},
+tooltip:{
+  trigger:'axis'
+},
     xAxis: {
       data:xData
     },
